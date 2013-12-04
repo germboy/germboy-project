@@ -1,3 +1,6 @@
 [submodule "lib/germboy-core"]
 	path = lib/germboy-core
 	url = git@github.com:germboy/germboy-core.git
+[submodule "lib/germboy-internal"]
+	path = lib/germboy-internal
+	url = git@github.com:germboy/germboy-internal.git
