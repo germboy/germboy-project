@@ -10,3 +10,6 @@
 [submodule "lib/germboy-core3"]
 	path = lib/germboy-core3
 	url = ../../germboy/germboy-core3
+[submodule "lib/germboy-core4"]
+	path = lib/germboy-core4
+	url = ../../germboy/germboy-core4
