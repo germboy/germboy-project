@@ -7,3 +7,6 @@
 [submodule "lib/germboy-core2"]
 	path = lib/germboy-core2
 	url = ../../germboy/germboy-core2
+[submodule "lib/germboy-core3"]
+	path = lib/germboy-core3
+	url = ../../germboy/germboy-core3
